@@ -1,0 +1,4 @@
+size 10 Duration: 106,801,200 nanoseconds [0.1068012000 seconds]
+size 100 Duration: 104,648,800 nanoseconds [0.1046488000 seconds]
+
+The bigger the array the faster the sort that makes sense to me.  i guess a size of 4500 would be optimal.
